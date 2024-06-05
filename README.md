@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 - **Languages:** Java, Python, Kotlin, Dart, Bash
 - **Frameworks:** TensorFlow, PyTorch, scikit-learn
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git,Ansible , Terraform
+- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
 - **Cloud Platforms:** AWS, Azure, Google Cloud
 
 ### 📜 Latest Projects
