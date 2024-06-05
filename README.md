@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=itsSwArchitect)
+
 - 👋 Hi, I’m Abid Ali
 - 👀 I’m interested in Mobile application development,Deep learning
 - 🌱 I’m currently learning Deep learning algorithms 
