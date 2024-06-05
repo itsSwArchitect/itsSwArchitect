@@ -37,7 +37,7 @@ Here are some of the projects I've been working on:
 
 Thanks for stopping by! Have a great day!
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/itsSwArchitect/itsSwArchitect/blob/output/github-contribution-grid-snake.svg)
 
 
 <!---
