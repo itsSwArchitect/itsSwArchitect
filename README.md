@@ -69,7 +69,6 @@ Before focusing on infrastructure and cloud-native platforms, I worked on applic
 - **Enterprise OpenShift platforms** — Hands-on deployment and operation of container platforms for business-critical applications, including cluster networking, storage integration, ingress, and operational readiness.
 - **Hybrid virtualization and DR** — VMware and OpenShift Virtualization, infrastructure integration, replication strategies, and availability planning across production and recovery environments.
 - **Monitoring and alerting platforms** — Prometheus, Grafana, Thanos, and Alertmanager implementations focused on operational visibility and actionable alerts.
-- **Zero-trust secrets for OpenShift (R&D)** — Exploring operator-based approaches to protect application secrets in shared clusters while preserving secure, reliable workload startup and recovery.
 
 > Much of my enterprise infrastructure work is not public. I share architecture knowledge, lab work, and code where confidentiality permits.
 
