@@ -87,7 +87,7 @@ My research explores **transfer learning for NLP in Romanized Urdu**, connecting
 
 ### 🔭 Current areas of interest
 
-`AI , ML , LLM``OpenShift architecture` · `Platform security` · `Secrets protection` · `OpenShift Virtualization` · `Infrastructure automation` · `Resilient systems` · `Private / on-prem LLMs`
+`AI , ML , LLM` · `OpenShift architecture` · `Platform security` · `Secrets protection` · `OpenShift Virtualization` · `Infrastructure automation` · `Resilient systems` · `Private / on-prem LLMs`
 
 ### 🤝 Let's connect
 
