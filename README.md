@@ -84,17 +84,10 @@ My research explores **transfer learning for NLP in Romanized Urdu**, connecting
 
 - **MSc, Computer Software Engineering** — research in NLP and transfer learning.
 - **BS, Software Engineering**.
-- **Microsoft Certified: Azure Administrator Associate (AZ-104)**.
-- **Oracle Cloud Infrastructure** credentials in **Generative AI** and **Multicloud**.
 
 ### 🔭 Current areas of interest
 
 `OpenShift architecture` · `Platform security` · `Secrets protection` · `OpenShift Virtualization` · `Infrastructure automation` · `Resilient systems` · `Private / on-prem LLMs`
-
-### 💻 Public code
-
-- **[wanderlust-devops](https://github.com/itsSwArchitect/wanderlust-devops)** — a public full-stack learning project with frontend, backend, and container configuration.
-- **[Explore my repositories](https://github.com/itsSwArchitect?tab=repositories)** — software experiments, development projects, and infrastructure-related work.
 
 ### 🤝 Let's connect
 
