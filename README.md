@@ -22,13 +22,8 @@ Here are some of the technologies and tools I work with:
 
 - **Languages:** Java, Python, Kotlin, Dart, Bash
 - **Frameworks:** TensorFlow, PyTorch, scikit-learn
-- **DevOps Tools:** Docker, Kubernetes, Jenkins, Git, Ansible, Terraform
+- **DevOps Tools:** Red Hat OpenShift, Kubernetes, Jenkins, Git, Ansible, Terraform
 - **Cloud Platforms:** AWS, Azure, Google Cloud
-
-### 📜 Latest Projects
-Here are some of the projects I've been working on:
-
-- [Project 1](https://github.com/itsSwArchitect/wanderlust-devops)
 
 ### 🌐 Find Me Online
 - [LinkedIn](https://www.linkedin.com/in/abid-ali-45659716a/)
